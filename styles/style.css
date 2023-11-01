@@ -13,20 +13,20 @@
     color: white;
   }
 
-  .centraliza{
+ /* .centraliza{
     margin-top: 4px;
     text-align: center;
     display: flex;
     flex-direction: row;
     justify-content: center;
-  }
+  }*/
 
   .alturaCardCursos{
-    height: 20vh;
+    height: 13vh;
   }
 
   .alturaImagsCursos{
-    height: 215px;
+    height: 40vh;
   }
 
   .marginCards{
